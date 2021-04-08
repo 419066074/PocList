@@ -35,3 +35,7 @@
 #### F5-BIG-IP-CVE-2021-22986 </br>
 #### Sonicwall-SSL-VPN-RCE </br>
 #### GitLab-Graphql-CNVD-2021-14193 </br>
+#### D-Link-DCS-CVE-2020-25078 </br>
+#### WLAN-AP-WEA453e-RCE </br>
+#### 360TianQing-Unauthorized </br>
+#### 360TianQing-SQLinjection </br>
